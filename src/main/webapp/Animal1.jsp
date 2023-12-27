@@ -470,22 +470,22 @@
                     <div class="col-md-4 mb-5">
                         <h5 class="font-weight-bold text-dark mb-4">Quick Links</h5>
                         <div class="d-flex flex-column justify-content-start">
-                            <a class="text-dark mb-2" href="index.html"><i class="fa fa-angle-right mr-2"></i>Home</a>
-                            <a class="text-dark mb-2" href="cart.html"><i class="fa fa-angle-right mr-2"></i>Shopping Cart</a>
-                            <a class="text-dark mb-2" href="checkout.html"><i class="fa fa-angle-right mr-2"></i>Checkout</a>
-                            <a class="text-dark" href="contact.html"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
+                            <a class="text-dark mb-2" href="index.jsp"><i class="fa fa-angle-right mr-2"></i>Home</a>
+                            <a class="text-dark mb-2" href="cart.jsp"><i class="fa fa-angle-right mr-2"></i>Shopping Cart</a>
+                            <a class="text-dark mb-2" href="checkout.jsp"><i class="fa fa-angle-right mr-2"></i>Checkout</a>
+                            <a class="text-dark" href="contact.jsp"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
                         </div>
                     </div>
                     <div class="col-md-4 mb-5">
                         <h5 class="font-weight-bold text-dark mb-4">Categories</h5>
                         <div class="d-flex flex-column justify-content-start">
                             <a class="text-dark mb-2" href="Cloths.html"><i class="fa fa-angle-right mr-2"></i>Cloths and Where</a>
-                            <a class="text-dark mb-2" href="vegetablesandfruits.html"><i class="fa fa-angle-right mr-2"></i>Vegitables and Fruits</a>
-                            <a class="text-dark mb-2" href="HealthandBeauty.html"><i class="fa fa-angle-right mr-2"></i>Health and Beauty</a>
-                            <a class="text-dark mb-2" href="Babyproducts.html"><i class="fa fa-angle-right mr-2"></i>Baby products</a>
-                            <a class="text-dark mb-2" href="Animal.html"><i class="fa fa-angle-right mr-2"></i>Animal and Pets</a>
-                            <a class="text-dark" href="Sportsandoutdoor.html"><i class="fa fa-angle-right mr-2"></i>Sports and Outdoors</a>
-                            <a class="text-dark" href="Homeandinteriors.html"><i class="fa fa-angle-right mr-2"></i>Home and Interiors</a>
+                            <a class="text-dark mb-2" href="vegetablesandfruits.jsp"><i class="fa fa-angle-right mr-2"></i>Vegitables and Fruits</a>
+                            <a class="text-dark mb-2" href="HealthandBeauty.jsp"><i class="fa fa-angle-right mr-2"></i>Health and Beauty</a>
+                            <a class="text-dark mb-2" href="Babyproducts.jsp"><i class="fa fa-angle-right mr-2"></i>Baby products</a>
+                            <a class="text-dark mb-2" href="Animal.jsp"><i class="fa fa-angle-right mr-2"></i>Animal and Pets</a>
+                            <a class="text-dark" href="Sportsandoutdoor.jsp"><i class="fa fa-angle-right mr-2"></i>Sports and Outdoors</a>
+                            <a class="text-dark" href="Homeandinteriors.jsp"><i class="fa fa-angle-right mr-2"></i>Home and Interiors</a>
                         </div>
                     </div>
                     <div class="col-md-4 mb-5">

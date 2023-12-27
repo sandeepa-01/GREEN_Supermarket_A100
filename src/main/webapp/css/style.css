@@ -91,7 +91,7 @@ body {
 
 .bg-image-animal{
 
-  background-image: url(/img/bg-animal.jpg);
+  background-image: url(img/bg-animal.jpg);
 
   background-repeat: no-repeat;
   min-height: 100vh;
