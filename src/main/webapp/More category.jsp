@@ -52,11 +52,11 @@
        
         <div class="col-lg-3 col-6 text-right">
          
-            <a href="/favourite.html" class="btn ">
+            <a href="/favourite.jsp" class="btn ">
                 <i class="fas fa-heart btn-color" style="font-size: 24px;"></i>
               
             </a>
-            <a href="/cart.html" class="btn ">
+            <a href="/cart.jsp" class="btn ">
                 <i class="fas fa-shopping-cart btn-color" style="font-size: 24px;"></i>
                 </a>
                
@@ -96,14 +96,14 @@
             <nav class="collapse position-absolute navbar navbar-vertical navbar-light align-items-start p-0 border border-top-0 border-bottom-0 bg-light" id="navbar-vertical" style="width: calc(100% - 30px); z-index: 1;">
                 <div class="navbar-nav w-100 overflow-hidden" style="height: 300px">
                     <div class="nav-item dropdown">
-                        <a href="/Cloths.html" class="nav-item nav-link">Clothes And Wear</a>
-                        <a href="/vegetablesandfruits.html" class="nav-item nav-link">vegetables and fruits</a>
-                    <a href="/HealthandBeauty.html" class="nav-item nav-link">Health and Beauty  </a>
-                    <a href="/Babyproducts.html" class="nav-item nav-link">Baby products</a>
-                    <a href="/Animal.html" class="nav-item nav-link">Animal and pets</a>
-                    <a href="/Sportsandoutdoor.html" class="nav-item nav-link">sports and outdoors</a>
-                    <a href="/Homeandinteriors.html" class="nav-item nav-link">Home and interiors</a>
-                    <a href="/Dryfoods.html" class="nav-item nav-link">Dry Foods</a> 
+                        <a href="/Cloths.jsp" class="nav-item nav-link">Clothes And Wear</a>
+                        <a href="/vegetablesandfruits.jsp" class="nav-item nav-link">vegetables and fruits</a>
+                    <a href="/HealthandBeauty.jsp" class="nav-item nav-link">Health and Beauty  </a>
+                    <a href="/Babyproducts.jsp" class="nav-item nav-link">Baby products</a>
+                    <a href="/Animal.jsp" class="nav-item nav-link">Animal and pets</a>
+                    <a href="/Sportsandoutdoor.jsp" class="nav-item nav-link">sports and outdoors</a>
+                    <a href="/Homeandinteriors.jsp" class="nav-item nav-link">Home and interiors</a>
+                    <a href="/Dryfoods.jsp" class="nav-item nav-link">Dry Foods</a> 
                 </div>
             </nav>
         </div>
@@ -118,8 +118,8 @@
                 <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                     
                     <div class="navbar-nav ml-auto  ">
-                        <button class="btn btn-color2  border-0 py-3" type="submit" ><a href="/index.html">Home </a> </button>
-                        <button class="btn btn-color2  border-0 py-2" type="submit"> <a href="/contact.html">Contact</a></button>
+                        <button class="btn btn-color2  border-0 py-3" type="submit" ><a href="/index.jsp">Home </a> </button>
+                        <button class="btn btn-color2  border-0 py-2" type="submit"> <a href="/contact.jsp">Contact</a></button>
                        
                       
                     </div>
@@ -575,22 +575,22 @@
                     <div class="col-md-4 mb-5">
                         <h5 class="font-weight-bold text-dark mb-4">Quick Links</h5>
                         <div class="d-flex flex-column justify-content-start">
-                            <a class="text-dark mb-2" href="index.html"><i class="fa fa-angle-right mr-2"></i>Home</a>
-                            <a class="text-dark mb-2" href="cart.html"><i class="fa fa-angle-right mr-2"></i>Shopping Cart</a>
-                            <a class="text-dark mb-2" href="checkout.html"><i class="fa fa-angle-right mr-2"></i>Checkout</a>
-                            <a class="text-dark" href="contact.html"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
+                            <a class="text-dark mb-2" href="index.jsp"><i class="fa fa-angle-right mr-2"></i>Home</a>
+                            <a class="text-dark mb-2" href="cart.jsp"><i class="fa fa-angle-right mr-2"></i>Shopping Cart</a>
+                            <a class="text-dark mb-2" href="checkout.jsp"><i class="fa fa-angle-right mr-2"></i>Checkout</a>
+                            <a class="text-dark" href="contact.jsp"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
                         </div>
                     </div>
                     <div class="col-md-4 mb-5">
                         <h5 class="font-weight-bold text-dark mb-4">Categories</h5>
                         <div class="d-flex flex-column justify-content-start">
-                            <a class="text-dark mb-2" href="Cloths.html"><i class="fa fa-angle-right mr-2"></i>Cloths and Where</a>
-                            <a class="text-dark mb-2" href="vegetablesandfruits.html"><i class="fa fa-angle-right mr-2"></i>Vegitables and Fruits</a>
-                            <a class="text-dark mb-2" href="HealthandBeauty.html"><i class="fa fa-angle-right mr-2"></i>Health and Beauty</a>
-                            <a class="text-dark mb-2" href="Babyproducts.html"><i class="fa fa-angle-right mr-2"></i>Baby products</a>
-                            <a class="text-dark mb-2" href="Animal.html"><i class="fa fa-angle-right mr-2"></i>Animal and Pets</a>
-                            <a class="text-dark" href="Sportsandoutdoor.html"><i class="fa fa-angle-right mr-2"></i>Sports and Outdoors</a>
-                            <a class="text-dark" href="Homeandinteriors.html"><i class="fa fa-angle-right mr-2"></i>Home and Interiors</a>
+                            <a class="text-dark mb-2" href="Cloths.jsp"><i class="fa fa-angle-right mr-2"></i>Cloths and Where</a>
+                            <a class="text-dark mb-2" href="vegetablesandfruits.jsp"><i class="fa fa-angle-right mr-2"></i>Vegitables and Fruits</a>
+                            <a class="text-dark mb-2" href="HealthandBeauty.jsp"><i class="fa fa-angle-right mr-2"></i>Health and Beauty</a>
+                            <a class="text-dark mb-2" href="Babyproducts.jsp"><i class="fa fa-angle-right mr-2"></i>Baby products</a>
+                            <a class="text-dark mb-2" href="Animal.jsp"><i class="fa fa-angle-right mr-2"></i>Animal and Pets</a>
+                            <a class="text-dark" href="Sportsandoutdoor.jsp"><i class="fa fa-angle-right mr-2"></i>Sports and Outdoors</a>
+                            <a class="text-dark" href="Homeandinteriors.jsp"><i class="fa fa-angle-right mr-2"></i>Home and Interiors</a>
                         </div>
                     </div>
                     <div class="col-md-4 mb-5">
