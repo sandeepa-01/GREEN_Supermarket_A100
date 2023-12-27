@@ -97,7 +97,7 @@
                 <div class="navbar-nav w-100 overflow-hidden" style="height: 300px">
                     <div class="nav-item dropdown">
                         <a href="Cloths.html" class="nav-item nav-link">Clothes And Wear</a>
-                        <a href="vegetablesandfruits.html" class="nav-item nav-link">vegetables and fruits</a>
+                        <a href="vegetablesandfruits.jsp" class="nav-item nav-link">vegetables and fruits</a>
                     <a href="HealthandBeauty.jsp" class="nav-item nav-link">Health and Beauty  </a>
                     <a href="Babyproducts.jsp" class="nav-item nav-link">Baby products</a>
                     <a href="Animal.jsp" class="nav-item nav-link">Animal and pets</a>
