@@ -499,11 +499,11 @@
                         <nav aria-label="Page navigation">
                           <ul class="pagination justify-content-center mb-3">
                             
-                            <li class="page-item "><a class="page-link" href="Dryfoods.html">1</a></li>
-                            <li class="page-item active"><a class="page-link" href="/Dryfoods1.html">2</a></li>
+                            <li class="page-item "><a class="page-link" href="Dryfoods.jsp">1</a></li>
+                            <li class="page-item active"><a class="page-link" href="/Dryfoods1.jsp">2</a></li>
                             
                             <li class="page-item">
-                              <a class="page-link" href="Dryfoods1.html" aria-label="Next">
+                              <a class="page-link" href="Dryfoods1.jsp" aria-label="Next">
                                 <span aria-hidden="true">&raquo;</span>
                                 <span class="sr-only">Next</span>
                               </a>

@@ -96,14 +96,14 @@
         <nav class="collapse position-absolute navbar navbar-vertical navbar-light align-items-start p-0 border border-top-0 border-bottom-0 bg-light" id="navbar-vertical" style="width: calc(100% - 30px); z-index: 1;">
             <div class="navbar-nav w-100 overflow-hidden" style="height: 300px">
                 <div class="nav-item dropdown">
-                    <a href="Cloths.html" class="nav-item nav-link">Clothes And Wear</a>
-                    <a href="vegetablesandfruits.html" class="nav-item nav-link">vegetables and fruits</a>
-                <a href="HealthandBeauty.html" class="nav-item nav-link">Health and Beauty  </a>
-                <a href="Babyproducts.html" class="nav-item nav-link">Baby products</a>
-                <a href="Animal.html" class="nav-item nav-link">Animal and pets</a>
-                <a href="Sportsandoutdoor.html" class="nav-item nav-link">sports and outdoors</a>
-                <a href="Homeandinteriors.html" class="nav-item nav-link">Home and interiors</a>
-                <a href="Dryfoods.html" class="nav-item nav-link">Dry Foods</a> 
+                    <a href="Cloths.jsp" class="nav-item nav-link">Clothes And Wear</a>
+                    <a href="vegetablesandfruits.jsp" class="nav-item nav-link">vegetables and fruits</a>
+                <a href="HealthandBeauty.jsp" class="nav-item nav-link">Health and Beauty  </a>
+                <a href="Babyproducts.jsp" class="nav-item nav-link">Baby products</a>
+                <a href="Animal.jsp" class="nav-item nav-link">Animal and pets</a>
+                <a href="Sportsandoutdoor.jsp" class="nav-item nav-link">sports and outdoors</a>
+                <a href="Homeandinteriors.jsp" class="nav-item nav-link">Home and interiors</a>
+                <a href="Dryfoods.jsp" class="nav-item nav-link">Dry Foods</a> 
             </div>
         </nav>
     </div>
@@ -399,7 +399,7 @@
                         <nav aria-label="Page navigation">
                           <ul class="pagination justify-content-center mb-3">
                             <li class="page-item ">
-                              <a class="page-link" href="Animal.html" aria-label="Previous">
+                              <a class="page-link" href="Animal.jsp" aria-label="Previous">
                                 <span aria-hidden="true">&laquo;</span>
                                 <span class="sr-only">Previous</span>
                               </a>
@@ -479,7 +479,7 @@
                     <div class="col-md-4 mb-5">
                         <h5 class="font-weight-bold text-dark mb-4">Categories</h5>
                         <div class="d-flex flex-column justify-content-start">
-                            <a class="text-dark mb-2" href="Cloths.html"><i class="fa fa-angle-right mr-2"></i>Cloths and Where</a>
+                            <a class="text-dark mb-2" href="Cloths.jsp"><i class="fa fa-angle-right mr-2"></i>Cloths and Where</a>
                             <a class="text-dark mb-2" href="vegetablesandfruits.jsp"><i class="fa fa-angle-right mr-2"></i>Vegitables and Fruits</a>
                             <a class="text-dark mb-2" href="HealthandBeauty.jsp"><i class="fa fa-angle-right mr-2"></i>Health and Beauty</a>
                             <a class="text-dark mb-2" href="Babyproducts.jsp"><i class="fa fa-angle-right mr-2"></i>Baby products</a>

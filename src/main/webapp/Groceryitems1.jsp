@@ -52,18 +52,18 @@
        
         <div class="col-lg-3 col-6 text-right">
          
-            <a href="/favourite.html" class="btn ">
+            <a href="/favourite.jsp" class="btn ">
                 <i class="fas fa-heart btn-color" style="font-size: 24px;"></i>
               
             </a>
-            <a href="/cart.html" class="btn ">
+            <a href="/cart.jsp" class="btn ">
                 <i class="fas fa-shopping-cart btn-color" style="font-size: 24px;"></i>
                 </a>
                
                    
                 <div class="btn-group">
                     <button type="button" class="btn dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <a href="/profile.html" class="btn" style="font-size: 24px;">
+                        <a href="/profile.jsp" class="btn" style="font-size: 24px;">
                             <i class="fas fa-user-circle btn-color"></i>
                         </a>
                     </button>
@@ -398,13 +398,13 @@
                         <nav aria-label="Page navigation">
                           <ul class="pagination justify-content-center mb-3">
                             <li class="page-item disabled">
-                              <a class="page-link" href="Dryfoods.html" aria-label="Previous">
+                              <a class="page-link" href="Dryfoods.jsp" aria-label="Previous">
                                 <span aria-hidden="true">&laquo;</span>
                                 <span class="sr-only">Previous</span>
                               </a>
                             </li>
-                            <li class="page-item "><a class="page-link" href="Dryfoods.html">1</a></li>
-                            <li class="page-item active"><a class="page-link" href="Dryfoods1.html">2</a></li>
+                            <li class="page-item "><a class="page-link" href="Dryfoods.jsp">1</a></li>
+                            <li class="page-item active"><a class="page-link" href="Dryfoods1.jsp">2</a></li>
                             
                             
                           </ul>

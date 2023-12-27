@@ -63,7 +63,7 @@
                    
                 <div class="btn-group">
                     <button type="button" class="btn dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <a href="profile.html" class="btn" style="font-size: 24px;">
+                        <a href="profile.jsp" class="btn" style="font-size: 24px;">
                             <i class="fas fa-user-circle btn-color"></i>
                         </a>
                     </button>
@@ -96,8 +96,8 @@
             <nav class="collapse position-absolute navbar navbar-vertical navbar-light align-items-start p-0 border border-top-0 border-bottom-0 bg-light" id="navbar-vertical" style="width: calc(100% - 30px); z-index: 1;">
                 <div class="navbar-nav w-100 overflow-hidden" style="height: 300px">
                     <div class="nav-item dropdown">
-                        <a href="Cloths.html" class="nav-item nav-link">Clothes And Wear</a>
-                        <a href="vegetablesandfruits.html" class="nav-item nav-link">vegetables and fruits</a>
+                        <a href="Cloths.jsp" class="nav-item nav-link">Clothes And Wear</a>
+                        <a href="vegetablesandfruits.jsp" class="nav-item nav-link">vegetables and fruits</a>
                     <a href="HealthandBeauty.jsp" class="nav-item nav-link">Health and Beauty  </a>
                     <a href="Babyproducts.jsp" class="nav-item nav-link">Baby products</a>
                     <a href="Animal.jsp" class="nav-item nav-link">Animal and pets</a>
@@ -529,7 +529,6 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
     <script src="lib/easing/easing.min.js"></script>
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-
     <!-- Contact Javascript File -->
     <script src="mail/jqBootstrapValidation.min.js"></script>
     <script src="mail/contact.js"></script>

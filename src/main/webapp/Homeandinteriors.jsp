@@ -63,7 +63,7 @@
                    
                 <div class="btn-group">
                     <button type="button" class="btn dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <a href="profile.html" class="btn" style="font-size: 24px;">
+                        <a href="profile.jsp" class="btn" style="font-size: 24px;">
                             <i class="fas fa-user-circle btn-color"></i>
                         </a>
                     </button>
@@ -499,11 +499,11 @@
                         <nav aria-label="Page navigation">
                           <ul class="pagination justify-content-center mb-3">
                          
-                            <li class="page-item active"><a class="page-link" href="Homeandinteriors.html">1</a></li>
-                            <li class="page-item"><a class="page-link" href="Homeandinteriors1.html">2</a></li>
+                            <li class="page-item active"><a class="page-link" href="Homeandinteriors.jsp">1</a></li>
+                            <li class="page-item"><a class="page-link" href="Homeandinteriors1.jsp">2</a></li>
                             <li class="page-item"><a class="page-link" href="#">3</a></li>
                             <li class="page-item">
-                              <a class="page-link" href="Homeandinteriors1.html" aria-label="Next">
+                              <a class="page-link" href="Homeandinteriors1.jsp" aria-label="Next">
                                 <span aria-hidden="true">&raquo;</span>
                                 <span class="sr-only">Next</span>
                               </a>

@@ -118,8 +118,8 @@
                 <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                     
                     <div class="navbar-nav ml-auto  ">
-                        <button class="btn btn-color2  border-0 py-3" type="submit" ><a href="index.html">Home </a> </button>
-                        <button class="btn btn-color2  border-0 py-2" type="submit"> <a href="contact.html">Contact</a></button>
+                        <button class="btn btn-color2  border-0 py-3" type="submit" ><a href="index.jsp">Home </a> </button>
+                        <button class="btn btn-color2  border-0 py-2" type="submit"> <a href="contact.jsp">Contact</a></button>
                        
                       
                     </div>
@@ -397,13 +397,13 @@
                         <nav aria-label="Page navigation">
                           <ul class="pagination justify-content-center mb-3">
                             <li class="page-item ">
-                              <a class="page-link" href="Babyproducts.html" aria-label="Previous">
+                              <a class="page-link" href="Babyproducts.jsp" aria-label="Previous">
                                 <span aria-hidden="true">&laquo;</span>
                                 <span class="sr-only">Previous</span>
                               </a>
                             </li>
-                            <li class="page-item "><a class="page-link" href="Babyproducts.html">1</a></li>
-                            <li class="page-item active"><a class="page-link" href="Babyproducts1.html">2</a></li>
+                            <li class="page-item "><a class="page-link" href="Babyproducts.jsp">1</a></li>
+                            <li class="page-item active"><a class="page-link" href="Babyproducts1.jsp">2</a></li>
                            
                            
                           </ul>

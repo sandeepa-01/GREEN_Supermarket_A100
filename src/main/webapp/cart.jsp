@@ -96,8 +96,8 @@
             <nav class="collapse position-absolute navbar navbar-vertical navbar-light align-items-start p-0 border border-top-0 border-bottom-0 bg-light" id="navbar-vertical" style="width: calc(100% - 30px); z-index: 1;">
                 <div class="navbar-nav w-100 overflow-hidden" style="height: 300px">
                     <div class="nav-item dropdown">
-                        <a href="Cloths.html" class="nav-item nav-link">Clothes And Wear</a>
-                        <a href="vegetablesandfruits.html" class="nav-item nav-link">vegetables and fruits</a>
+                        <a href="Cloths.jsp" class="nav-item nav-link">Clothes And Wear</a>
+                        <a href="vegetablesandfruits.jsp" class="nav-item nav-link">vegetables and fruits</a>
                     <a href="HealthandBeauty.jsp" class="nav-item nav-link">Health and Beauty  </a>
                     <a href="Babyproducts.jsp" class="nav-item nav-link">Baby products</a>
                     <a href="Animal.jsp" class="nav-item nav-link">Animal and pets</a>
@@ -365,7 +365,7 @@
                     <div class="col-md-4 mb-5">
                         <h5 class="font-weight-bold text-dark mb-4">Categories</h5>
                         <div class="d-flex flex-column justify-content-start">
-                            <a class="text-dark mb-2" href="Cloths.html"><i class="fa fa-angle-right mr-2"></i>Cloths and Where</a>
+                            <a class="text-dark mb-2" href="Cloths.jsp"><i class="fa fa-angle-right mr-2"></i>Cloths and Where</a>
                             <a class="text-dark mb-2" href="vegetablesandfruits.jsp"><i class="fa fa-angle-right mr-2"></i>Vegitables and Fruits</a>
                             <a class="text-dark mb-2" href="HealthandBeauty.jsp"><i class="fa fa-angle-right mr-2"></i>Health and Beauty</a>
                             <a class="text-dark mb-2" href="Babyproducts.jsp"><i class="fa fa-angle-right mr-2"></i>Baby products</a>

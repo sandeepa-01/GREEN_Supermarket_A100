@@ -52,18 +52,18 @@
        
         <div class="col-lg-3 col-6 text-right">
          
-            <a href="favourite.html" class="btn ">
+            <a href="favourite.jsp" class="btn ">
                 <i class="fas fa-heart btn-color" style="font-size: 24px;"></i>
               
             </a>
-            <a href="cart.html" class="btn ">
+            <a href="cart.jsp" class="btn ">
                 <i class="fas fa-shopping-cart btn-color" style="font-size: 24px;"></i>
                 </a>
                
                    
                 <div class="btn-group">
                     <button type="button" class="btn dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <a href="profile.html" class="btn" style="font-size: 24px;">
+                        <a href="profile.jsp" class="btn" style="font-size: 24px;">
                             <i class="fas fa-user-circle btn-color"></i>
                         </a>
                     </button>
@@ -96,7 +96,7 @@
             <nav class="collapse position-absolute navbar navbar-vertical navbar-light align-items-start p-0 border border-top-0 border-bottom-0 bg-light" id="navbar-vertical" style="width: calc(100% - 30px); z-index: 1;">
                 <div class="navbar-nav w-100 overflow-hidden" style="height: 300px">
                     <div class="nav-item dropdown">
-                        <a href="Cloths.html" class="nav-item nav-link">Clothes And Wear</a>
+                        <a href="Cloths.jsp" class="nav-item nav-link">Clothes And Wear</a>
                         <a href="vegetablesandfruits.jsp" class="nav-item nav-link">vegetables and fruits</a>
                     <a href="HealthandBeauty.jsp" class="nav-item nav-link">Health and Beauty  </a>
                     <a href="Babyproducts.jsp" class="nav-item nav-link">Baby products</a>
@@ -118,8 +118,8 @@
                 <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                     
                     <div class="navbar-nav ml-auto  ">
-                        <button class="btn btn-color2  border-0 py-3" type="submit" ><a href="index.html">Home </a> </button>
-                        <button class="btn btn-color2  border-0 py-2" type="submit"> <a href="contact.html">Contact</a></button>
+                        <button class="btn btn-color2  border-0 py-3" type="submit" ><a href="index.jsp">Home </a> </button>
+                        <button class="btn btn-color2  border-0 py-2" type="submit"> <a href="contact.jsp">Contact</a></button>
                        
                       
                     </div>
@@ -579,7 +579,7 @@
                     <div class="col-md-4 mb-5">
                         <h5 class="font-weight-bold text-dark mb-4">Categories</h5>
                         <div class="d-flex flex-column justify-content-start">
-                            <a class="text-dark mb-2" href="Cloths.html"><i class="fa fa-angle-right mr-2"></i>Cloths and Where</a>
+                            <a class="text-dark mb-2" href="Cloths.jsp"><i class="fa fa-angle-right mr-2"></i>Cloths and Where</a>
                             <a class="text-dark mb-2" href="vegetablesandfruits.jsp"><i class="fa fa-angle-right mr-2"></i>Vegitables and Fruits</a>
                             <a class="text-dark mb-2" href="HealthandBeauty.jsp"><i class="fa fa-angle-right mr-2"></i>Health and Beauty</a>
                             <a class="text-dark mb-2" href="Babyproducts.jsp"><i class="fa fa-angle-right mr-2"></i>Baby products</a>

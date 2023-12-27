@@ -63,7 +63,7 @@
                    
                 <div class="btn-group">
                     <button type="button" class="btn dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <a href="profile.html" class="btn" style="font-size: 24px;">
+                        <a href="profile.jsp" class="btn" style="font-size: 24px;">
                             <i class="fas fa-user-circle btn-color"></i>
                         </a>
                     </button>

@@ -53,18 +53,18 @@
        
         <div class="col-lg-3 col-6 text-right">
          
-            <a href="favourite.html" class="btn ">
+            <a href="favourite.jsp" class="btn ">
                 <i class="fas fa-heart btn-color" style="font-size: 24px;"></i>
               
             </a>
-            <a href="cart.html" class="btn ">
+            <a href="cart.jsp" class="btn ">
                 <i class="fas fa-shopping-cart btn-color" style="font-size: 24px;"></i>
                 </a>
                
                    
                 <div class="btn-group">
                     <button type="button" class="btn dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <a href="profile.html" class="btn" style="font-size: 24px;">
+                        <a href="profile.jsp" class="btn" style="font-size: 24px;">
                             <i class="fas fa-user-circle btn-color"></i>
                         </a>
                     </button>
@@ -119,8 +119,8 @@
                 <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                     
                     <div class="navbar-nav ml-auto  ">
-                        <button class="btn btn-color2  border-0 py-3" type="submit" ><a href="index.html">Home </a> </button>
-                        <button class="btn btn-color2  border-0 py-2" type="submit"> <a href="contact.html">Contact</a></button>
+                        <button class="btn btn-color2  border-0 py-3" type="submit" ><a href="index.jsp">Home </a> </button>
+                        <button class="btn btn-color2  border-0 py-2" type="submit"> <a href="contact.jsp">Contact</a></button>
                        
                       
                     </div>
