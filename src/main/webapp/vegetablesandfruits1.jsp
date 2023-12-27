@@ -97,13 +97,13 @@
                 <div class="navbar-nav w-100 overflow-hidden" style="height: 300px">
                     <div class="nav-item dropdown">
                         <a href="Cloths.html" class="nav-item nav-link">Clothes And Wear</a>
-                        <a href="vegetablesandfruits.html" class="nav-item nav-link">vegetables and fruits</a>
-                    <a href="HealthandBeauty.html" class="nav-item nav-link">Health and Beauty  </a>
-                    <a href="Babyproducts.html" class="nav-item nav-link">Baby products</a>
-                    <a href="Animal.html" class="nav-item nav-link">Animal and pets</a>
-                    <a href="Sportsandoutdoor.html" class="nav-item nav-link">sports and outdoors</a>
-                    <a href="Homeandinteriors.html" class="nav-item nav-link">Home and interiors</a>
-                    <a href="Dryfoods.html" class="nav-item nav-link">Dry Foods</a> 
+                        <a href="vegetablesandfruits.jsp" class="nav-item nav-link">vegetables and fruits</a>
+                    <a href="HealthandBeauty.jsp" class="nav-item nav-link">Health and Beauty  </a>
+                    <a href="Babyproducts.jsp" class="nav-item nav-link">Baby products</a>
+                    <a href="Animal.jsp" class="nav-item nav-link">Animal and pets</a>
+                    <a href="Sportsandoutdoor.jsp" class="nav-item nav-link">sports and outdoors</a>
+                    <a href="Homeandinteriors.jsp" class="nav-item nav-link">Home and interiors</a>
+                    <a href="Dryfoods.jsp" class="nav-item nav-link">Dry Foods</a> 
                 </div>
             </nav>
         </div>
@@ -398,13 +398,13 @@
                         <nav aria-label="Page navigation">
                           <ul class="pagination justify-content-center mb-3">
                             <li class="page-item disabled">
-                              <a class="page-link" href="vegetablesandfruits.html" aria-label="Previous">
+                              <a class="page-link" href="vegetablesandfruits.jsp" aria-label="Previous">
                                 <span aria-hidden="true">&laquo;</span>
                                 <span class="sr-only">Previous</span>
                               </a>
                             </li>
-                            <li class="page-item "><a class="page-link" href="vegetablesandfruits.html">1</a></li>
-                            <li class="page-item active"><a class="page-link" href="vegetablesandfruits1.html">2</a></li>
+                            <li class="page-item "><a class="page-link" href="vegetablesandfruits.jsp">1</a></li>
+                            <li class="page-item active"><a class="page-link" href="vegetablesandfruits1.jsp">2</a></li>
                             
                            
                           </ul>
@@ -469,22 +469,22 @@
                     <div class="col-md-4 mb-5">
                         <h5 class="font-weight-bold text-dark mb-4">Quick Links</h5>
                         <div class="d-flex flex-column justify-content-start">
-                            <a class="text-dark mb-2" href="index.html"><i class="fa fa-angle-right mr-2"></i>Home</a>
-                            <a class="text-dark mb-2" href="cart.html"><i class="fa fa-angle-right mr-2"></i>Shopping Cart</a>
-                            <a class="text-dark mb-2" href="checkout.html"><i class="fa fa-angle-right mr-2"></i>Checkout</a>
-                            <a class="text-dark" href="contact.html"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
+                            <a class="text-dark mb-2" href="index.jsp"><i class="fa fa-angle-right mr-2"></i>Home</a>
+                            <a class="text-dark mb-2" href="cart.jsp"><i class="fa fa-angle-right mr-2"></i>Shopping Cart</a>
+                            <a class="text-dark mb-2" href="checkout.jsp"><i class="fa fa-angle-right mr-2"></i>Checkout</a>
+                            <a class="text-dark" href="contact.jsp"><i class="fa fa-angle-right mr-2"></i>Contact Us</a>
                         </div>
                     </div>
                     <div class="col-md-4 mb-5">
                         <h5 class="font-weight-bold text-dark mb-4">Categories</h5>
                         <div class="d-flex flex-column justify-content-start">
-                            <a class="text-dark mb-2" href="Cloths.html"><i class="fa fa-angle-right mr-2"></i>Cloths and Where</a>
-                            <a class="text-dark mb-2" href="vegetablesandfruits.html"><i class="fa fa-angle-right mr-2"></i>Vegitables and Fruits</a>
-                            <a class="text-dark mb-2" href="HealthandBeauty.html"><i class="fa fa-angle-right mr-2"></i>Health and Beauty</a>
-                            <a class="text-dark mb-2" href="Babyproducts.html"><i class="fa fa-angle-right mr-2"></i>Baby products</a>
-                            <a class="text-dark mb-2" href="Animal.html"><i class="fa fa-angle-right mr-2"></i>Animal and Pets</a>
-                            <a class="text-dark" href="Sportsandoutdoor.html"><i class="fa fa-angle-right mr-2"></i>Sports and Outdoors</a>
-                            <a class="text-dark" href="Homeandinteriors.html"><i class="fa fa-angle-right mr-2"></i>Home and Interiors</a>
+                            <a class="text-dark mb-2" href="Cloths.jsp"><i class="fa fa-angle-right mr-2"></i>Cloths and Where</a>
+                            <a class="text-dark mb-2" href="vegetablesandfruits.jsp"><i class="fa fa-angle-right mr-2"></i>Vegitables and Fruits</a>
+                            <a class="text-dark mb-2" href="HealthandBeauty.jsp"><i class="fa fa-angle-right mr-2"></i>Health and Beauty</a>
+                            <a class="text-dark mb-2" href="Babyproducts.jsp"><i class="fa fa-angle-right mr-2"></i>Baby products</a>
+                            <a class="text-dark mb-2" href="Animal.jsp"><i class="fa fa-angle-right mr-2"></i>Animal and Pets</a>
+                            <a class="text-dark" href="Sportsandoutdoor.jsp"><i class="fa fa-angle-right mr-2"></i>Sports and Outdoors</a>
+                            <a class="text-dark" href="Homeandinteriors.jsp"><i class="fa fa-angle-right mr-2"></i>Home and Interiors</a>
                         </div>
                     </div>
                     <div class="col-md-4 mb-5">
