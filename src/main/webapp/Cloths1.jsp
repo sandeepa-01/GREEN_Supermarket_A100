@@ -96,7 +96,11 @@
             <nav class="collapse position-absolute navbar navbar-vertical navbar-light align-items-start p-0 border border-top-0 border-bottom-0 bg-light" id="navbar-vertical" style="width: calc(100% - 30px); z-index: 1;">
                 <div class="navbar-nav w-100 overflow-hidden" style="height: 300px">
                     <div class="nav-item dropdown">
+<<<<<<< HEAD
                         <a href="Cloths.jsp" class="nav-item nav-link">Clothes And Wear</a>
+=======
+                        <a href="Cloths.html" class="nav-item nav-link">Clothes And Wear</a>
+>>>>>>> 108f3a0a5a3c9ab06de21a58ef3b2f2bd7b4f44f
                         <a href="vegetablesandfruits.jsp" class="nav-item nav-link">vegetables and fruits</a>
                     <a href="HealthandBeauty.jsp" class="nav-item nav-link">Health and Beauty  </a>
                     <a href="Babyproducts.jsp" class="nav-item nav-link">Baby products</a>
